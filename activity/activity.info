@@ -1,0 +1,9 @@
+[Activity]
+name = Musicpainter
+service_name = org.laptop.sugar.Musicpainter
+icon = activity-musicpainter
+class = MusicpainterActivity.MusicpainterActivity
+show_launcher = yes
+activity_version = 14
+bundle_id = org.laptop.wiki.MusicpainterActivity
+exec = sugar-activity MusicpainterActivity.MusicpainterActivity

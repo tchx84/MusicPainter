@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+<mime-type type="activity-musicpainter">
+<comment xml:lang="en">Musicpainter</comment>
+<glob pattern="*.mp"/>
+</mime-type>
+</mime-info>
